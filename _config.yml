@@ -23,7 +23,7 @@ google_analytics:
 hydrogen-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: jekyll-theme-slate
 
 #install emoji
 plugins:
